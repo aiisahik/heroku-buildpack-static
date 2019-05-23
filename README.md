@@ -1,6 +1,6 @@
 # heroku-buildpack-static
 
-For documentation, see: 
+For documentation, see: https://github.com/heroku/heroku-buildpack-static
 
 ## Customization: 
 
